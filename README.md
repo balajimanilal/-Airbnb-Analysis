@@ -16,7 +16,6 @@ Clone the repository | Install the required dependencies | Run the Streamlit app
 This Streamlit web app provides an exploratory analysis of Airbnb listing data. The analysis includes various visualizations to understand different aspects of the dataset.
 
 > **The app allows users to select from the following analysis options:**
-
 > Distribution of Listings by Country
 > Price Variation by Selected Feature
 > Frequency of Selected Feature
